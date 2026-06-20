@@ -1,0 +1,10 @@
+{
+  "name": "EduVision AI",
+  "description": "Real-time classroom engagement and educational intelligence platform analyzing focus, attention, and emotion metrics from live video streams.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
